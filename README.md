@@ -3,8 +3,8 @@
     <h2 align="center">Hi everyone 👋</h2>
     <h3 align="center">I'm studying at <b>Nilüfer IMKB Science High School</b></h3> 
 
-   <a>
-   <img align="center" src="https://img.shields.io/badge/-Gmail-FF0000?logo=gmail&logoColor=white&style=for-the-badge"></img>
+   <a href="mailto:ardacenkerkaragoz@gmail.com">
+      <img align="center" src="https://img.shields.io/badge/-Gmail-FF0000?logo=gmail&logoColor=white&style=for-the-badge"></img>
    </a>
 
    <a href="https://www.linkedin.com/in/arda-cenker-karag%C3%B6z-b077451b6/">
