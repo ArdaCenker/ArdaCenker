@@ -12,9 +12,11 @@
    </a>
 
 <h3>Technologies</h3>
+<p>
   <img src="https://img.shields.io/badge/C%23-663399?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/Angular-ff0000?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-8B0000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+</p>
 <h3>Tools</h3>
 
 <p>
