@@ -3,12 +3,17 @@
     <h1 align="center">Hi everyone 👋</h1>
     <h2 align="center">I'm studying at <b>Nilüfer IMKB Science High School</b></h2> 
    
+<h3>For Contact</h3>
    <a align="center" href="https://www.linkedin.com/in/arda-cenker-karag%C3%B6z-b077451b6/">
       <img align="center" src="https://img.shields.io/badge/-Linkedin-4682B4?logo=linkedin&logoColor=white&style=for-the-badge"></img>
    </a>
    
    <a align="center" href="mailto:ardacenkerkaragoz@gmail.com">
       <img align="center" src="https://img.shields.io/badge/-Gmail-FF4500?logo=gmail&logoColor=white&style=for-the-badge"></img>
+   </a>
+   
+   <a align="center" href="https://www.instagram.com/ardacenker_karagoz/?hl=tr">
+      <img align="center" src=" https://img.shields.io/badge/Instagram-A9A9A9?style=for-the-badge&logo=instagram&logoColor=white"></img>
    </a>
 
 <h3>Technologies</h3>
