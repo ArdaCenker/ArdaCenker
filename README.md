@@ -13,7 +13,7 @@
    </a>
    
    <a align="center" href="https://www.instagram.com/ardacenker_karagoz/?hl=tr">
-      <img align="center" src=" https://img.shields.io/badge/Instagram-A9A9A9?style=for-the-badge&logo=instagram&logoColor=white"></img>
+      <img align="center" src="https://img.shields.io/badge/Instagram-A9A9A9?style=for-the-badge&logo=instagram&logoColor=white"></img>
    </a>
 
 <h3>Technologies</h3>
