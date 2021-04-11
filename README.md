@@ -8,7 +8,7 @@
    </a>
 
    <a href="https://www.linkedin.com/in/arda-cenker-karag%C3%B6z-b077451b6/">
-      <img align="center" src="https://img.shields.io/badge/-Linkedin-0000FF?logo=linkedin&logoColor=white&style=for-the-badge"></img>
+      <img align="center" src="https://img.shields.io/badge/-Linkedin-4682B4?logo=linkedin&logoColor=white&style=for-the-badge"></img>
     </a>
 <p>
    <a href="https://github.com/ArdaCenker">
