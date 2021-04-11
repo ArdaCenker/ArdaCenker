@@ -1,5 +1,5 @@
-<h2>Hi everyone 👋</h2>
-<h3>I'm studying at <b>Nilüfer IMKB Science High School</b></h3> 
+<h2 align="center">Hi everyone 👋</h2>
+<h3 align="center">I'm studying at <b>Nilüfer IMKB Science High School</b></h3> 
 
 <img align="center" src="https://img.shields.io/badge/-Gmail-FF0000?logo=gmail&logoColor=white&style=for-the-badge"></img>
 
