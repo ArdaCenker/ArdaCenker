@@ -18,7 +18,10 @@
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-8B0000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </p>
 <h3>Tools</h3>
-
+  <img src="https://img.shields.io/badge/Windows-87CEFA?style=for-the-badge&logo=windows&logoColor=blue">
+  <img src="https://img.shields.io/badge/Visual_Studio_2019-9932CC?style=for-the-badge&logo=visual_studio_2019&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-1E90FF?style=for-the-badge&logo=visual_studio_code&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-1E90FF?style=for-the-badge&logo=visual_studio_code&logoColor=white">
 <p>
    <a href="https://github.com/ArdaCenker">
       <img src="https://github-readme-stats.vercel.app/api/?username=ArdaCenker&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=1e90fff&icon_color=1e90ff&hide_border=true" style="max-width:100%;">
