@@ -3,7 +3,7 @@
     <h1 align="center">Hi everyone 👋</h1>
     <p style="font-size:50px;" align="center">I'm studying at <b>Nilüfer IMKB Science High School</b></p> 
    
-<h3>For Contact</h3>
+<p>Contact with me via these platforms!</p>
    <a align="center" href="https://www.linkedin.com/in/arda-cenker-karag%C3%B6z-b077451b6/">
       <img align="center" src="https://img.shields.io/badge/-Linkedin-4682B4?logo=linkedin&logoColor=white&style=for-the-badge"></img>
    </a>
