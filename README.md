@@ -1,7 +1,7 @@
 <html>
   <body>
     <h1 align="center">Hi everyone 👋</h1>
-    <p style="font-size:50px;" align="center">I'm studying at <b>Nilüfer IMKB Science High School</b></p> 
+    <p style="font-size: 30px;" align="center">I'm studying at <b>Nilüfer IMKB Science High School</b></p> 
    
 <h3>For Contact</h3>
    <a align="center" href="https://www.linkedin.com/in/arda-cenker-karag%C3%B6z-b077451b6/">
