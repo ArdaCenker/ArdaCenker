@@ -16,13 +16,13 @@
       <img align="center" src="https://img.shields.io/badge/-Gmail-FF4500?logo=gmail&logoColor=white&style=for-the-badge"></img>
    </a>
 
-<h3>Technologies</h3>
+<h3>:computer: Technologies</h3>
 <p>
   <img src="https://img.shields.io/badge/C%23-663399?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/Angular-ff0000?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-8B0000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </p>
-<h3>Tools</h3>
+<h3>:hammer_and_wrench: Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/Windows-00008B?style=for-the-badge&logo=windows&logoColor=blue">
   <img src="https://img.shields.io/badge/Visual_Studio_2019-9932CC?style=for-the-badge&logo=visual_studio_2019&logoColor=white">
