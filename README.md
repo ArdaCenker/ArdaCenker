@@ -18,16 +18,17 @@
 
 <h3>:computer: Technologies</h3>
 <p>
-  <img src="https://img.shields.io/badge/C%23-663399?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-ff0000?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-8B0000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Angular-ff0000?style=for-the-badge&logo=angular&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=ffffff">
 </p>
 <h3>:hammer_and_wrench: Tools</h3>
 <p>
-  <img src="https://img.shields.io/badge/Windows-00008B?style=for-the-badge&logo=windows&logoColor=blue">
-  <img src="https://img.shields.io/badge/Visual_Studio_2019-9932CC?style=for-the-badge&logo=visual_studio_2019&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-1E90FF?style=for-the-badge&logo=visual_studio_code&logoColor=white">
-  <img src="https://img.shields.io/badge/Eclipse-ff8800?style=for-the-badge&logo=eclipse&logoColor=0400ff">
+  <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Visual_Studio_2019-000000?style=for-the-badge&logo=visual_studio_2019&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual_studio_code&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipse&logoColor=ffffff">
 </p>
 <p>
    <a href="https://github.com/ArdaCenker">
