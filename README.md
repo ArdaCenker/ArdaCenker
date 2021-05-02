@@ -5,21 +5,21 @@
    
 <p>Contact with me via these platforms!</p>
    <a align="center" href="https://www.linkedin.com/in/arda-cenker-karag%C3%B6z-b077451b6/">
-      <img align="center" src="https://img.shields.io/badge/-Linkedin-4682B4?logo=linkedin&logoColor=white&style=for-the-badge"></img>
+      <img align="center" src="https://img.shields.io/badge/-Linkedin-000000?logo=linkedin&logoColor=ffffff&style=for-the-badge"></img>
    </a>
    
    <a align="center" href="https://www.instagram.com/ardacenker_karagoz/?hl=tr">
-      <img align="center" src="https://img.shields.io/badge/-Instagram-A9A9A9?style=for-the-badge&logo=instagram&logoColor=white"></img>
+      <img align="center" src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ffffff"></img>
    </a>
    
    <a align="center" href="mailto:ardacenkerkaragoz@gmail.com">
-      <img align="center" src="https://img.shields.io/badge/-Gmail-FF4500?logo=gmail&logoColor=white&style=for-the-badge"></img>
+      <img align="center" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&logoColor=ffffff&style=for-the-badge"></img>
    </a>
 
 <h3>:computer: Technologies</h3>
 <p>
   <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/Angular-ff0000?style=for-the-badge&logo=angular&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=ffffff">
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=ffffff">
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=ffffff">
 </p>
