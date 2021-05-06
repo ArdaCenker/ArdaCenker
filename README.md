@@ -4,7 +4,7 @@
     <p style="font-size:50px;" align="center">I'm studying at <b>Nilüfer IMKB Science High School</b></p> 
 <p>
   <a>
-    <img src="https://img.shields.io/github/followers/ArdaCenker?style=social&label=Followers&maxAge=2592000">
+    <img align="center" src="https://img.shields.io/github/followers/ArdaCenker?style=social&label=Followers&maxAge=2592000">
   </a>
 
   <a href="https://github.com/ArdaCenker/stargazers">
@@ -14,7 +14,7 @@
    
 <p>Contact with me via these platforms!</p>
    <a align="center" href="https://www.linkedin.com/in/arda-cenker-karag%C3%B6z-b077451b6/">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    
    <a align="center" href="mailto:ardacenkerkaragoz@gmail.com">
