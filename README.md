@@ -3,6 +3,7 @@
     <h1 align="center">Hi everyone 👋</h1>
     <p style="font-size:50px;" align="center">I'm studying at <b>Nilüfer IMKB Science High School</b></p> 
 <p>
+  
   <a>
     <img align="center" src="https://img.shields.io/github/followers/ArdaCenker?style=social&label=Followers&maxAge=2592000">
   </a>
