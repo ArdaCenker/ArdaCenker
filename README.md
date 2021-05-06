@@ -14,26 +14,26 @@
    
 <p>Contact with me via these platforms!</p>
    <a align="center" href="https://www.linkedin.com/in/arda-cenker-karag%C3%B6z-b077451b6/">
-      <img align="center" src="https://img.shields.io/badge/-Linkedin-0072b1?logo=linkedin&logoColor=ffffff&style=for-the-badge"></img>
+      <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    
    <a align="center" href="mailto:ardacenkerkaragoz@gmail.com">
-      <img align="center" src="https://img.shields.io/badge/-Gmail-BB001B?logo=gmail&logoColor=ffffff&style=for-the-badge"></img>
+      <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
    </a>
 
 <h3>:computer: Technologies</h3>
 <p>
-  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=ffffff">
+  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
+  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=ffffff">
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 <h3>:hammer_and_wrench: Tools</h3>
 <p>
-  <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/Visual_Studio_2019-000000?style=for-the-badge&logo=visual_studio_2019&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual_studio_code&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipse&logoColor=ffffff">
+  <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse-ffa94d?style=for-the-badge&logo=eclipse&logoColor=000000">
 </p>
 <p>
    <a href="https://github.com/ArdaCenker">
