@@ -3,17 +3,15 @@
     <h1 align="center">Hi everyone 👋</h1>
     <p style="font-size:50px;" align="center">I'm studying at <b>Nilüfer IMKB Science High School</b></p> 
    
+[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+   
 <p>Contact with me via these platforms!</p>
    <a align="center" href="https://www.linkedin.com/in/arda-cenker-karag%C3%B6z-b077451b6/">
-      <img align="center" src="https://img.shields.io/badge/-Linkedin-000000?logo=linkedin&logoColor=ffffff&style=for-the-badge"></img>
-   </a>
-   
-   <a align="center" href="https://www.instagram.com/ardacenker_karagoz/?hl=tr">
-      <img align="center" src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ffffff"></img>
+      <img align="center" src="https://img.shields.io/badge/-Linkedin-0072b1?logo=linkedin&logoColor=ffffff&style=for-the-badge"></img>
    </a>
    
    <a align="center" href="mailto:ardacenkerkaragoz@gmail.com">
-      <img align="center" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&logoColor=ffffff&style=for-the-badge"></img>
+      <img align="center" src="https://img.shields.io/badge/-Gmail-BB001B?logo=gmail&logoColor=ffffff&style=for-the-badge"></img>
    </a>
 
 <h3>:computer: Technologies</h3>
