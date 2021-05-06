@@ -2,16 +2,15 @@
   <body>
     <h1 align="center">Hi everyone 👋</h1>
     <p style="font-size:50px;" align="center">I'm studying at <b>Nilüfer IMKB Science High School</b></p> 
+<p>
+  <a>
+    <img src="https://img.shields.io/github/followers/ArdaCenker?style=social&label=Followers&maxAge=2592000">
+  </a>
 
-<a>
-  <img src="https://img.shields.io/github/followers/ArdaCenker?style=social&label=Followers&maxAge=2592000">
-</a>
-
-<a href="https://github.com/ArdaCenker/stargazers">
-  <img src="https://img.shields.io/github/stars/ArdaCenker?style=social&label=Stars&maxAge=2592000">
-</a>
-
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+  <a href="https://github.com/ArdaCenker/stargazers">
+    <img src="https://img.shields.io/github/stars/ArdaCenker?style=social&label=Stars&maxAge=2592000">
+  </a>
+</p>
    
 <p>Contact with me via these platforms!</p>
    <a align="center" href="https://www.linkedin.com/in/arda-cenker-karag%C3%B6z-b077451b6/">
