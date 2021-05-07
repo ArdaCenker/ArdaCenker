@@ -9,7 +9,7 @@
   </a>
 
   <a href="https://github.com/ArdaCenker/stargazers">
-    <img align="center" src="https://img.shields.io/github/stars/ArdaCenker?style=social&label=Stars&maxAge=2592000">
+    <img align="center" src="https://img.shields.io/github/stars/badges/ArdaCenker.svg?style=social&label=Stars&maxAge=2592000">
   </a>
 </p>
    
