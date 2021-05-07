@@ -5,11 +5,11 @@
 <p>
   
   <a>
-    
+    <img align="center" src="https://img.shields.io/github/followers/ArdaCenker?style=social&label=Followers&maxAge=2592000">
   </a>
 
   <a href="https://github.com/ArdaCenker/stargazers">
-    
+    <img align="center" src="https://img.shields.io/github/stars/ArdaCenker?style=social&label=Stars&maxAge=2592000">
   </a>
 </p>
    
