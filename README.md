@@ -1,7 +1,7 @@
 <html>
   <body>
     <h1 align="center">Hi everyone 👋</h1>
-    <p style="font-size:50px;" align="center">I'm studying at <b>Nilüfer IMKB Science High School</b></p> 
+    <p style="font-size:50px;" align="center">I'm studying at <b>Nilüfer Borsa İstanbul Science High School</b></p> 
 <p>
   
   <a>
