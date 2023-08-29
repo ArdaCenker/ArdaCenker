@@ -1,7 +1,9 @@
 <html>
   <body>
     <h1 align="center">Hi everyone 👋</h1>
-    <p style="font-size:50px;" align="center">I'm studying at <b>Nilüfer Borsa İstanbul Science High School</b></p> 
+    <p style="font-size:50px;" align="center">I graduated at <b>Nilüfer Borsa İstanbul Science High School</b></p> 
+<p>
+    <p style="font-size:50px;" align="center">I'm studying at <b>Marmara University Computer Engineering</b></p> 
 <p>
   
   <a>
@@ -20,6 +22,9 @@
    
    <a align="center" href="mailto:ardacenkerkaragoz@gmail.com">
       <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
+   </a>
+   <a align="center" href="mailto:arda.cenker@marun.edu.tr">
+      <img align="center" src="https://img.shields.io/badge/School%20Mail-darkblue?style=for-the-badge&logo=gmail&logoColor=white"></img>
    </a>
 
 <h3>:computer: Technologies</h3>
